@@ -1,0 +1,137 @@
+﻿<project version = 9 civer = 8.1.0 winver = "2.12/6.2.9200" >
+   <autorun >1</>
+   <autoclose >0</>
+   <compname ></>
+   <produrl ></>
+   <ver >1.0.0.24</>
+   <supurl ></>
+   <updurl ></>
+   <dlgfont >verdana</>
+   <headlogo >D:\Projects\MFCoin\tools\res\logo_icon.jpg</>
+   <dlgfontsize >s8</>
+   <output >D:\Projects\MFCoin\tools</>
+   <exename >MFCT_Setup.exe</>
+   <beffile ></>
+   <aftfile ></>
+   <uninclude >1</>
+   <lang >russian</>
+   <addlang >english, ukrainian</>
+   <selfextr >1</>
+   <instpath ></>
+   <voltype >nolimit</>
+   <volsize ></>
+   <volpattern >disk%i.pak</>
+   <password ></>
+   <progname >MFCoin Tools</>
+   <appname ></>
+   <bl ></>
+   <blurl ></>
+   <unpath >inst</>
+   <unexe >uninstall.exe</>
+   <unlog >uninstall.ini</>
+   <installroot ></>
+   <uninstallroot ></>
+   <icofile >D:\Projects\MFCoin\tools\res\setup_icon.ico</>
+   <noadmin >0</>
+   <comptype >default</>
+   <ratio >r10</>
+   <solid >1</>
+   <desc ></>
+   <srclist >
+      <rows >
+         <_ >
+            <filename >D:\Projects\MFCoin\tools\setup\MFCoinTools.exe</>
+            <recurse >1</>
+            <path >inst</>
+            <custpath ></>
+            <ifexist >overnewer</>
+         </>
+         <_ >
+            <filename >D:\Projects\MFCoin\tools\setup\Update.exe</>
+            <recurse >1</>
+            <path >inst</>
+            <custpath ></>
+            <ifexist >overnewer</>
+         </>
+         <_ >
+            <filename >D:\Projects\MFCoin\tools\setup\VersionsInfo.ini</>
+            <recurse >1</>
+            <path >inst</>
+            <custpath ></>
+            <ifexist >overnewer</>
+         </>
+         <_ >
+            <filename >D:\Projects\MFCoin\tools\setup\core</>
+            <recurse >1</>
+            <path >inst</>
+            <custpath ></>
+            <ifexist >overnewer</>
+         </>
+         <_ >
+            <filename >D:\Projects\MFCoin\tools\setup\icons</>
+            <recurse >1</>
+            <path >inst</>
+            <custpath ></>
+            <ifexist >overnewer</>
+         </>
+      </>
+   </>
+   <path >inst</>
+   <custpath ></>
+   <ifexist >over</>
+   <if ></>
+   <varlist >
+      <rows ></>
+   </>
+   <shpath >prog</>
+   <shfile ></>
+   <file ></>
+   <cmdline ></>
+   <comment ></>
+   <icon ></>
+   <work >inst</>
+   <defwork ></>
+   <runas >norm</>
+   <root >curuser</>
+   <subkey ></>
+   <reglist >
+      <rows ></>
+   </>
+   <shfolder ></>
+   <silentpar >-silent</>
+   <ignnotfound >0</>
+   <srcfolder ></>
+   <exclude ></>
+   <licfile ></>
+   <readfile ></>
+   <leftimg >D:\Projects\MFCoin\tools\res\setupLeft.jpg</>
+   <caption ></>
+   <iswel >1</>
+   <isfin >1</>
+   <enforce >0</>
+   <savepath >0</>
+   <autoprog >1</>
+   <opengroup >0</>
+   <shlist >
+      <rows >
+         <_ >
+            <shpath >desk</>
+            <shfile >MFCoin Tools</>
+            <path >inst</>
+            <file >MFCoinTools.exe</>
+            <cmdline ></>
+            <icon ></>
+            <work >inst</>
+            <defwork ></>
+         </>
+      </>
+   </>
+   <unicon >D:\Projects\MFCoin\tools\res\uninstall_icon.ico</>
+   <unsh >1</>
+   <unaddrem >0</>
+   <unname ></>
+   <ifile ></>
+   <unleftimg >D:\Projects\MFCoin\tools\res\setupLeft.jpg</>
+   <uncaption ></>
+   <isunfin >1</>
+</>
